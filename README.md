@@ -129,7 +129,7 @@ npm run test
 
 ---
 
-## 🐳 Using Docker (optional)
+## 🐳 Using Docker
 You can run everything with **Laravel Sail** or Docker Compose:
 ```bash
 docker-compose up -d
@@ -158,4 +158,4 @@ Role-based access, soft deletes, and clear status transitions ensure reliability
 ---
 
 ## 📜 License
-MIT — feel free to adapt and extend.
+MIT.
